@@ -2,4 +2,5 @@
 
 Make your own beats with drum chords
 
-C:\Users\hardi\Desktop\Web Dev\Drum Kit Starting Files\video.mp4
+https://user-images.githubusercontent.com/77456767/151526848-2e9f09b8-19df-4963-a25c-c1aa6b460981.mp4
+
